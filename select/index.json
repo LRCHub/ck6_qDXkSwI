@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Lily",
+  "base_artist": "ラックライフ",
+  "createdAt": "2025-12-18T12:25:37.972311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lily",
+      "artist": "Alan Walker feat. K-391 & Emelie Hollow",
+      "has_synced": true,
+      "path": "select/01_Lily_Alan_Walker_feat._K-391_&_Emelie_Hollow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lily",
+      "artist": "Alan Walker;K-391;Emelie Hollow",
+      "has_synced": true,
+      "path": "select/02_Lily_Alan_Walker;K-391;Emelie_Hollow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lily",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/03_Lily_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Count (aka Hervé) And Lily Face the Fear",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/04_The_Count_(aka_Hervé)_And_Lily_Face_the_Fear_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Count [aka Herve] & Lily Face The Fear [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/05_The_Count_[aka_Herve]_&_Lily_Face_The_Fear_[Special_Track]_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All For You (feat. Sg Lily)",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/06_All_For_You_(feat._Sg_Lily)_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tiger Lily",
+      "artist": "Luna",
+      "has_synced": false,
+      "path": "select/07_Tiger_Lily_Luna.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Lily of the West",
+      "artist": "The Chieftains",
+      "has_synced": false,
+      "path": "select/08_The_Lily_of_the_West_The_Chieftains.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lily of the Valley",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/09_Lily_of_the_Valley_Queen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock a Little (Go Ahead Lily)",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/10_Rock_a_Little_(Go_Ahead_Lily)_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lily, Rosemary and the Jack of Hearts",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/11_Lily,_Rosemary_and_the_Jack_of_Hearts_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hurricane (feat. Lily Elise)",
+      "artist": "Dillon Francis feat. Lily Elise",
+      "has_synced": true,
+      "path": "select/12_Hurricane_(feat._Lily_Elise)_Dillon_Francis_feat._Lily_Elise.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sick & Tired (feat. Lily Hain)",
+      "artist": "Leonell Cassio",
+      "has_synced": true,
+      "path": "select/13_Sick_&_Tired_(feat._Lily_Hain)_Leonell_Cassio.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sittin' Throwin' Rocks (feat. Lily Hain)",
+      "artist": "Leonell Cassio",
+      "has_synced": false,
+      "path": "select/14_Sittin'_Throwin'_Rocks_(feat._Lily_Hain)_Leonell_Cassio.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "tough evening (feat. sg lily)",
+      "artist": "buffalobang",
+      "has_synced": true,
+      "path": "select/15_tough_evening_(feat._sg_lily)_buffalobang.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drivin' Me Wild (Feat. Lily Allen)",
+      "artist": "Common",
+      "has_synced": true,
+      "path": "select/16_Drivin'_Me_Wild_(Feat._Lily_Allen)_Common.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lily (My One And Only)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/17_Lily_(My_One_And_Only)_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lily (My One and Only) [Sadlands Demo]",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/18_Lily_(My_One_and_Only)_[Sadlands_Demo]_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lily (My One and Only) (Sadlands demo)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/19_Lily_(My_One_and_Only)_(Sadlands_demo)_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lily",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_Lily_ラックライフ.txt"
+    }
+  ]
+}
